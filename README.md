@@ -1,1 +1,3 @@
-# MiniProject_Hyperspectral_unmixing
+# Mini Project Report
+## Hyperspectral Unmixing 
+### Greedy Sparse Algorithm
